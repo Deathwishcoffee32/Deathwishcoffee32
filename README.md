@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Lei-Lani 👋
 
-<!--
-**Deathwishcoffee32/Deathwishcoffee32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student at Idaho State University  
+💻 Passionate about building efficient systems and solving real-world problems  
+📍 Based in Idaho  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+**Languages:**
+- C++
+- JavaScript
+- HTML / CSS
+
+**Concepts:**
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Memory Management (Pointers, Dynamic Allocation)
+- File I/O
+- Debugging & Problem Solving
+
+**Tools & Technologies:**
+- Git & GitHub
+- VS Code
+- LocalStorage (Web Apps)
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Custom Data Structures (C++)
+- Implemented stack and queue using singly linked lists (no STL)
+- Focused on pointer manipulation and memory management
+- Practiced efficient operations (O(1) complexity)
+
+### 🔹 Task Management Web App
+- Built with vanilla JavaScript, HTML, and CSS
+- Features:
+  - Priority-based task system
+  - Pomodoro timer with session tracking
+  - Persistent storage using localStorage
+
+### 🔹 Console-Based Application (C++)
+- Applied OOP principles (classes, encapsulation)
+- Integrated file handling for persistent data
+- Focused on clean structure and scalability
+
+---
+
+## 🌱 Currently Working On
+- Improving data structures and algorithm skills
+- Building more full-stack and interactive web projects
+- Preparing for software engineering internships
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/Deathwishcoffee32
+- Email: pere.leil32@gmail.com
+
+---
+
+⭐ *Always learning, always building.*

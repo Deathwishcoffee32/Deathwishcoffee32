@@ -12,6 +12,7 @@
 - C++
 - JavaScript
 - HTML / CSS
+- C#
 
 **Concepts:**
 - Data Structures & Algorithms
@@ -24,6 +25,7 @@
 - Git & GitHub
 - VS Code
 - LocalStorage (Web Apps)
+- MySQL
 
 ---
 
